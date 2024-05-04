@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "875093666839",
+    "project_id": "rescue-ring-d4c4b",
+    "storage_bucket": "rescue-ring-d4c4b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:875093666839:android:ab8b4018dbf42e4d238052",
+        "android_client_info": {
+          "package_name": "com.example.rescue_ring"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-R2CLk6lk5bFAjbWz-7gYa7r5i8LopuE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
